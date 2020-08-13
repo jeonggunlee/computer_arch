@@ -8,12 +8,12 @@
 
 *  *  *
 
-> 본 수업에서는 현대의 컴퓨터에 대한 내부적인 구조를 배우게 됩니다. 컴퓨터 내부 구조에 대한 이해는 컴퓨터 프로그래밍을 배울 때 최적화된 코드를 작성할 수 있도록 도와줄 것입니다. 본 수업에서는 특히 [MIPS](https://ko.wikipedia.org/wiki/MIPS_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98) 프로세서 구조에 대해서 배우게 되며, MIPS 프로세서에서 사용되는 어셈블리 언어를 어셈블리 시뮬레이터인 [QtSim](http://spimsimulator.sourceforge.net/) 실습을 통해 배우게 될 것입니다. 
+> 본 수업에서는 현대의 컴퓨터에 대한 내부적인 구조를 배우게 됩니다. 컴퓨터 내부 구조에 대한 이해는 컴퓨터 프로그래밍을 배울 때 최적화된 코드를 작성할 수 있도록 도와줄 것입니다. 본 수업에서는 특히 [MIPS](https://ko.wikipedia.org/wiki/MIPS_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98) 프로세서 구조에 대해서 배우게 되며, MIPS 프로세서에서 사용되는 어셈블리 언어를 어셈블리 시뮬레이터인 [QtSpim](http://spimsimulator.sourceforge.net/) 실습을 통해 배우게 될 것입니다. 
 > MIPS 프로세서의 구조 이해를 향상시키기 위하여 [LogiSim](http://www.cburch.com/logisim/) 시뮬레이션 도구를 활용하여 설계하고 동작을 확인합니다.
 >본 수업은 인텔이 제공하는 대학지원 프로그램의 지원을 받는 교과목으로 산업체가 요구하는 교육 내용을 전달하고 있습니다.
 >
 >  - 실습**
->     - MIPS 프로세서의 어셈블리 언어 시뮬레이션을 위해 오픈소스 소프트웨어인 "**[MIPS 어셈블러 시뮬레이터:QtSim](http://spimsimulator.sourceforge.net/)**"를 사용합니다.
+>     - MIPS 프로세서의 어셈블리 언어 시뮬레이션을 위해 오픈소스 소프트웨어인 "**[MIPS 어셈블러 시뮬레이터:QtSpim](http://spimsimulator.sourceforge.net/)**"를 사용합니다.
 >     - 오픈소스 시뮬레이터인 [LogiSim](http://www.cburch.com/logisim/) 시뮬레이터를 이용한 MIPS 프로세서 구조 설계 및 확인
 >
 >  - 주요 학습 내용:
