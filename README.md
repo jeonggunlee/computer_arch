@@ -12,19 +12,19 @@
 > MIPS 프로세서의 구조 이해를 향상시키기 위하여 LogiSim 시뮬레이션 도구를 활용하여 설계하고 동작을 확인합니다.
 >본 수업은 인텔이 제공하는 대학지원 프로그램의 지원을 받는 교과목으로 산업체가 요구하는 교육 내용을 전달하고 있습니다.
 >
->  * 실습
->  - MIPS 프로세서의 어셈블리 언어 시뮬레이션을 위해 오픈소스 소프트웨어인 "MIPS 어셈블러 시뮬레이터"를 사용합니다.
->  - 오픈소스 시뮬레이터인 Logisim 시뮬레이터를 이용한 MIPS 프로세서 구조 설계 및 확인
+>  - 실습
+>     - MIPS 프로세서의 어셈블리 언어 시뮬레이션을 위해 오픈소스 소프트웨어인 "MIPS 어셈블러 시뮬레이터"를 사용합니다.
+>     - 오픈소스 시뮬레이터인 Logisim 시뮬레이터를 이용한 MIPS 프로세서 구조 설계 및 확인
 >
->  * 주요 학습 내용:
->    - Computer Architecture and Assembly Language
->    - Microarchitecture for MIPS Microprocessors
->    - Memory Architecture including cache architectures
+>  - 주요 학습 내용:
+>     - Computer Architecture and Assembly Language
+>     - Microarchitecture for MIPS Microprocessors
+>     - Memory Architecture including cache architectures
 >
->  * 이론은 동영상 강의 등을 통한 비대면 강의로 진행되면, 실습은 원활한 진행을 위하여 대면으로 진행됩니다.
+>  - 이론은 동영상 강의 등을 통한 비대면 강의로 진행되면, 실습은 원활한 진행을 위하여 대면으로 진행됩니다.
 >
->  * 이론수업이 비대면 강의로 진행되는 많큼 교수 및 학생간의 신뢰 유지를 위해서 함께 노력해주시기 바랍니다.
->    - 상황에 따라 자율 출석 및 무감독 시험 평가가 진행될 수 있습니다 (교수 - 학생간 조율에 의해서 평가 항목 및 방법 변경가능).
+>  - 이론수업이 비대면 강의로 진행되는 많큼 교수 및 학생간의 신뢰 유지를 위해서 함께 노력해주시기 바랍니다.
+>     - 상황에 따라 자율 출석 및 무감독 시험 평가가 진행될 수 있습니다 (교수 - 학생간 조율에 의해서 평가 항목 및 방법 변경가능).
 > 
 
 
