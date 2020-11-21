@@ -1,0 +1,10 @@
+        lw $1, 0($0)
+        addi $2, $0, 1
+        addi $3, $0, 0
+REPEAT: beq $2, $1, 3
+        add $3, $3, $2
+        addi $2, $2, 1
+        j 3
+
+done:   sw $3 4($0)
+        j 8
