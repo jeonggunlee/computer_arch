@@ -101,6 +101,8 @@
          - It is free! (Logisim is open-source (GPL).)
          
    ![Alt text](http://www.cburch.com/logisim/shot-2.7.0.png)         
+   
+   - MIPS 어셈블리 명령어에 대한 기계어 코드를 생성: http://www.kurtm.net/mipsasm/
       
 
 ## 참조 사이트
