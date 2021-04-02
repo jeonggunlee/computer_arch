@@ -1,6 +1,6 @@
 ## 수업 활용 자료 모음
 
-- When you open the MIPS project, please open ``mips_process.circ" first !
+- When you open the MIPS project, please open ``mips_processor.circ'' first !
 - 
 - MIPS Assembly Code
 - Logisim Circuit Module
