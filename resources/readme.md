@@ -1,6 +1,7 @@
 ## 수업 활용 자료 모음
 
 [1] Put all the circ files into one single directory.
+
 [2] When you open the MIPS project, please open **mips_processor.circ*** first !
 
 
