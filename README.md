@@ -37,7 +37,6 @@
    - 연구실:(성호관 1306호실) / Email: Jeonggun.Lee (AT) gmail.com
    - 전화번호: 033-248-2312 (연구실)
    - 홈페이지: [http://www.onchip.net](http://www.onchip.net)
-<img src="https://sites.google.com/site/embeddedsochallymuniv/_/rsrc/1307936693055/esoc/jeonggunlee/jglee.JPG" height="200" width="162">
 
 ### 담당조교: 김동영
    - (Email: dongyoung0218@gmail.com, 연구실: 성호관 1211 임베디드 SoC 연구실)
