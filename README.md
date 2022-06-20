@@ -146,9 +146,7 @@
          
    ![Alt text](http://www.cburch.com/logisim/shot-2.7.0.png)         
    
-   - MIPS 어셈블리 명령어에 대한 기계어 코드를 생성: http://www.kurtm.net/mipsasm/
-      
-![프로세서경진대회](./resources/프로세서설계경진대회.png)      
+   - MIPS 어셈블리 명령어에 대한 기계어 코드를 생성: http://www.kurtm.net/mipsasm/ 
 
 ## 참조 사이트
    - 참조 사이트
