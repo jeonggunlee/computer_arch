@@ -1,12 +1,13 @@
 # Computer Architecture (컴퓨터 구조)
-## 2022 가을학기, 한림대학교 소프트웨어융합대학 
+## 2022 가을학기, 한림대학교 정보과학대학 소프트웨어학부 
 *  *  *
 
 ## [알림] Github 수업 페이지 오픈
 ## 질문은 [Issues] 생성을 이용해주세요!
-## [2020년 컴퓨터구조 수업 실습 수업 동영상](https://www.youtube.com/watch?v=qeiRKwbtlNc&list=PLKZ28p5qq0DHfv7eadlsr3OVkCzeVGbcx)
-## [Logisim을 이용한 논리 회로 실습 지원 동영상 개발](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
-## [2020년 1학기 논리회로 및 설계수업](https://www.youtube.com/playlist?list=PLKZ28p5qq0DG9aNASHD3G0Hf0Kw2IBSJ_)
+## 참고 자료
+### [2020년 컴퓨터구조 수업 실습 수업 동영상](https://www.youtube.com/watch?v=qeiRKwbtlNc&list=PLKZ28p5qq0DHfv7eadlsr3OVkCzeVGbcx)
+### [Logisim을 이용한 논리 회로 실습 지원 동영상 개발](https://www.youtube.com/playlist?list=PLKZ28p5qq0DGBY8ZUcYDZcvjCojZQJCQV)
+### [2020년 1학기 논리회로 및 설계수업](https://www.youtube.com/playlist?list=PLKZ28p5qq0DG9aNASHD3G0Hf0Kw2IBSJ_)
 
 *  *  *
 
