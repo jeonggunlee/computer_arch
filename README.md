@@ -1,5 +1,5 @@
 # Computer Architecture (컴퓨터 구조)
-## 2020 가을학기, 한림대학교 소프트웨어융합대학 
+## 2022 가을학기, 한림대학교 소프트웨어융합대학 
 *  *  *
 
 ## [알림] Github 수업 페이지 오픈
@@ -23,20 +23,15 @@
 >     - Microarchitecture for MIPS Microprocessors
 >     - Memory Architecture including cache architectures
 >
->  - 이론은 동영상 강의 등을 통한 비대면 강의로 진행되면, 실습은 원활한 진행을 위하여 대면으로 진행됩니다.
->
->  - 이론수업이 비대면 강의로 진행되는 많큼 교수 및 학생간의 신뢰 유지를 위해서 함께 노력해주시기 바랍니다.
->     - 상황에 따라 자율 출석 및 무감독 시험 평가가 진행될 수 있습니다 (교수 - 학생간 조율에 의해서 평가 항목 및 방법 변경가능).
-> 
 
 
 *  *  *
 
 ## 강의 스탭
 ### 담당교수: [이정근](https://sites.google.com/site/embeddedsochallymuniv/esoc/jeonggunlee) (소프트웨어융합대학)
-   - 연구실:(성호관 1306호실) / Email: Jeonggun.Lee (AT) gmail.com
-   - 전화번호: 033-248-2312 (연구실)
-   - 홈페이지: [http://www.onchip.net](http://www.onchip.net)
+   - 연구실:(성호관 A1201호실) / Email: Jeonggun.Lee (AT) gmail.com
+   - 전화번호: 033-248-2313 (연구실)
+   - 홈페이지: [http://www.onchip.net](https://sites.google.com/site/embeddedsochallymuniv/home)
 
 ### 담당조교: 김동영
    - (Email: dongyoung0218@gmail.com, 연구실: 성호관 1211 임베디드 SoC 연구실)
